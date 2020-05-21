@@ -61,7 +61,7 @@
 		<div class="clearfix"></div>
 		<footer>
 			<div class="container-fluid">
-				<p class="copyright">Made by Kai Koga</p>
+				<p class="copyright">Made by Kai</p>
 			</div>
 		</footer>
 	</div>
